@@ -1,0 +1,13 @@
+../Main/Sound/usbd_midi.c:85:16:USBD_MIDI_Init	24	static
+../Main/Sound/usbd_midi.c:163:16:USBD_MIDI_DeInit	24	static
+../Main/Sound/usbd_midi.c:197:16:USBD_MIDI_Setup	32	static
+../Main/Sound/usbd_midi.c:293:16:USBD_MIDI_DataIn	24	static
+../Main/Sound/usbd_midi.c:329:16:USBD_MIDI_DataOut	24	static
+../Main/Sound/usbd_midi.c:357:16:USBD_MIDI_EP0_RxReady	24	static
+../Main/Sound/usbd_midi.c:378:17:USBD_MIDI_GetFSCfgDesc	16	static
+../Main/Sound/usbd_midi.c:390:10:USBD_MIDI_GetDeviceQualifierDescriptor	16	static
+../Main/Sound/usbd_midi.c:402:9:USBD_MIDI_RegisterInterface	24	static
+../Main/Sound/usbd_midi.c:422:9:USBD_MIDI_SetTxBuffer	32	static
+../Main/Sound/usbd_midi.c:439:9:USBD_MIDI_SetRxBuffer	24	static
+../Main/Sound/usbd_midi.c:454:9:USBD_MIDI_TransmitPacket	24	static
+../Main/Sound/usbd_midi.c:491:9:USBD_MIDI_ReceivePacket	24	static

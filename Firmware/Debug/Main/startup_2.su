@@ -1,0 +1,3 @@
+startup_2.c:15:6:initialize	4	static
+startup_2.c:19:6:setup	4	static
+startup_2.c:23:6:loop	312	static

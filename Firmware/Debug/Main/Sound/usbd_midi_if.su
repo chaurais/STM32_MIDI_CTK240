@@ -1,0 +1,5 @@
+../Main/Sound/usbd_midi_if.c:24:15:MIDI_Init_FS	8	static
+../Main/Sound/usbd_midi_if.c:38:15:MIDI_DeInit_FS	4	static
+../Main/Sound/usbd_midi_if.c:52:15:MIDI_Control_FS	16	static
+../Main/Sound/usbd_midi_if.c:132:15:MIDI_Receive_FS	16	static
+../Main/Sound/usbd_midi_if.c:152:9:MIDI_Transmit_FS	24	static

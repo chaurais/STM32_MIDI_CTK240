@@ -1,0 +1,6 @@
+../Main/startup.c:19:6:initialize	4	static
+../Main/startup.c:23:6:setup	4	static
+../Main/startup.c:27:6:keypad_scan	24	static
+../Main/startup.c:102:6:key_pressed	24	static
+../Main/startup.c:217:6:key_unpressed	40	static
+../Main/startup.c:255:6:beep	24	static
