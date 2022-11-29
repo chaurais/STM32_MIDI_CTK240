@@ -1,0 +1,28 @@
+RefDes                     	Name    	Value    
+____________________________________________________________
+
+BZ1                          	BUZZER_P    	            
+C1, C4                       	CAP_0805    	20pF        
+C2, C9                       	CAP_POL     	47uF        
+C3, C5, C6, C7, C8, C10, C11 	CAP_0805    	100nF       
+CH1                          	TACTIL4_90  	SHIFT       
+CH2                          	TACTIL4_90  	SPLIT       
+CH3                          	TACTIL4_90  	<OCT        
+CH4                          	TACTIL4_90  	OCT>        
+CH5                          	TACTIL4_90  	<VEL        
+CH6                          	TACTIL4_90  	VEL>        
+CN1, CN3                     	CONM15PIN   	            
+CN2                          	SIP2        	            
+CN4                          	SIP4        	            
+D1, D2, D3, D4, D5, D6, D7   	DL4148      	DL4148      
+J1                           	USB_Type_B  	Type B      
+K1                           	ML2RC2      	            
+Q1, Q2                       	NPN SMD     	            
+R1, R3                       	RES_0805    	100k        
+R2, R4, R5                   	RES_0805    	1k          
+R6, R7                       	RES_0805    	22R         
+R8                           	RES_0805    	1k5         
+U1, U2, U3, U4, U5           	74HC4053    	74HC4053    
+U6                           	LD1117-3V3  	LD1117-3V3  
+U7                           	STM32F103C8 	STM32F103C8 
+XTAL1                        	XTAL        	8MHZ        
